@@ -73,7 +73,7 @@ public class Script : MonoBehaviour
 
 ## Задание 3
 ###  Оформить отчет в виде документации на github.
-```
+
 
 
 ## Powered by
